@@ -97,7 +97,6 @@ For Random Forest:
 
 from sklearn.model_selection import GridSearchCV
 
-
 You tune things like:
 
 n_estimators
